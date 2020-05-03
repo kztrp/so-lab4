@@ -1,0 +1,8 @@
+Dane jest drzewo katalogowe D i 2 pliki regularne P1 oraz P2. Należy:
+1) Znaleźć wszystkie linki, które wskazują na pliki regularne.
+2) Dla każdego katalogu należy wypisać liczbę jego ukrytych plików.
+3) Znaleźć katalogi, które mają mniej niż 5 dowiązań.
+4) Dla plików zwykłych wypisać trzecie słowo drugiej linijki.
+5) Znaleźć i usunąć wszystkie pliki regularne, które mają rozmiar większy niż 50 bajtów i do których wszyscy mają prawo zapisu.
+
+D. Żelazny
